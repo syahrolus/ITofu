@@ -16,6 +16,7 @@ Berbagi mulai dari
       1. [Sistem Operasi](https://github.com/syahrolus/ITofu/tree/main/Materi_Kuliah/S1-Informatika/Semester_3/Sistem_Operasi)
       2. [Pemrograman Berorientasi Objek](https://github.com/syahrolus/ITofu/tree/main/Materi_Kuliah/S1-Informatika/Semester_3/PBO)
       3. [Metode Numerik](https://github.com/syahrolus/ITofu/tree/main/Materi_Kuliah/S1-Informatika/Semester_3/Metode_Numerik)
+      4. [Desain dan Analisis Algoritma](https://github.com/syahrolus/ITofu/tree/main/Materi_Kuliah/S1-Informatika/Semester_3/DAA)
 
 * dan lain-lain()
 
