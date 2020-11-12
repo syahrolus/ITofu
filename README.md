@@ -26,4 +26,4 @@ Berbagi mulai dari
   
   
 ___
-jika ingin berkontribusi bersama silahkan kirimkan email
+jika ingin berkontribusi bersama silahkan hubungi lewat email
