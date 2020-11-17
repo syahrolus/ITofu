@@ -1,7 +1,7 @@
 # ITofu
 
 ### Kontributor :
-1. [Muhammad Syahrul Aulia]()
+1. [Muhammad Syahrul Aulia](https://github.com/syahrolus)
 2. dsb
 
 <hr>
