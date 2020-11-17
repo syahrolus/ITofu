@@ -39,7 +39,7 @@ Berbagi mulai dari
 
 ### 2. Bebas :
 * Keamanan Jaringan
-* [CTF](CTF.md)
+* [CTF](/Bebas_belajar/CTF/README.md)
 * Corel Draw
 * Video Editing
 * Karya Tulis
